@@ -1,0 +1,2 @@
+1111|alias bin din|123
+2222|alia bin dino|123
